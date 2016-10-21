@@ -1,3 +1,7 @@
 .cover {
 	background-color: rgba(200,200,200,0.3);
 }
+
+.quote-header h3{
+	line-height: 1.3em;
+}
